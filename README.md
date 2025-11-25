@@ -1,4 +1,4 @@
-# Chatbot Chatbot para Público Infantil para Clasificar Sonidos del Cielo
+# Chatbot para Público invidente para Clasificar Sonidos del Cielo
 
 ![ScreenShot](Chatbot-Widget/static/img/principal.png)
 
